@@ -1,6 +1,8 @@
 # Visualize well-by-well Production Data using Python's Interactive Altair
 The objective of this project is to interactively interrogate oil field production data using Altair. 
 
+For an initial demonstration, download the Volve_GitHub_brief.html before loading Altair on your system and running the Jupyter Notebook. 
+
 This is our first attempt to use Altair to interactively interrogate and visualize the well-by-well production data from Equinor's Volve Field using python Altair. Altair has great potential allowing us to dynamically link our data. As we learn how to use all of capabilities of Altair, we will be updating this reqospitory as we learn. In this example we start with a field map of Volve Field. We start the process by selecting a well or group of wells and the plots below will show the corresponding data for that well or wells. this is just the tip of the iceberg. 
 
 We normally do this type of work in Spotfire where we always prefer to tie our petrophysical results into the actual production and pressures from a field-wide perspective. 
