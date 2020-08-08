@@ -7,7 +7,7 @@ We normally do this type of work in Spotfire where we always prefer to tie our p
 
 ![Altair_Image](spotfire.png)
 
-However, we would like to exploit the capabilities of Altair to see if we can achieve similar interactivity as what we have in Spotfire. 
+However, we would like to exploit the capabilities of Altair to see if we can achieve similar interactivity as what we have in Spotfire. The plot below was made with Altair and each portion of the plot is dynamically linked demonstrating the interactive capabilities of Altair. 
 
 ![Altair_Image](main_plot2.png)
 
