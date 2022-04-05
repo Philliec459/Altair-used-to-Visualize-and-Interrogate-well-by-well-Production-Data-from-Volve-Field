@@ -7,11 +7,11 @@ This is our first attempt to use Altair to interactively interrogate and visuali
 
 We normally do this type of work in Spotfire where we always prefer to tie our petrophysical results into the actual production and pressures from a field-wide perspective. 
 
-![Altair_Image](spotfire.png)
+>![Altair_Image](spotfire.png)
 
 However, we would like to exploit the capabilities of Altair to see if we can achieve similar interactivity as what we have in Spotfire. The plot below was made with Altair and each portion of the plot is dynamically linked demonstrating the interactive capabilities of Altair. 
 
-![Altair_Image](Volve_Field.gif)
+>![Altair_Image](Volve_Field.gif)
 
 We are using Conda on a mac and Altair works fairly well in a jupyter notebook. To run as pure python program altair_viewer must also be used to render the images to a html web page. We are low on the learning curve with Altair finding new capabilities each day. Consider this repository an example of where we are today. 
 
